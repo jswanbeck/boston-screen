@@ -9,16 +9,7 @@ while true
 do
     for repo in $(find ${_here}/repos -type d -mindepth 1 -maxdepth 1)
     do
-	gource \
-	    -s 1 \
-	    -i 0 \
-	    -a 0.1 \
-	    -f 1440x900 \
-	    --highlight-users \
-	    --max-user-speed 50 \
-	    --hide dirnames,filenames,mouse \
-	    --background-image ${_here}/background.png \
-	    --stop-at-end ${repo}
+	gource --load-config ${_here}/.gource
 	sleep 5
     done
 done
