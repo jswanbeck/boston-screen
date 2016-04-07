@@ -1,0 +1,13 @@
+[display]
+fullscreen=true
+
+[gource]
+auto-skip-seconds=0.1
+background-image=background.png
+file-idle-time=0
+hide=dirnames,filenames,mouse
+highlight-users=true
+max-user-speed=50
+seconds-per-day=1
+stop-at-end=true
+
