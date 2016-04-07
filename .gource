@@ -8,7 +8,6 @@ file-idle-time=0
 hide=dirnames,filenames,mouse
 highlight-users=true
 max-user-speed=50
-path=repos/common-c-utils/
 seconds-per-day=1
 stop-at-end=true
 
