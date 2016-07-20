@@ -22,5 +22,5 @@
 
 ### Who do I talk to? ###
 
-* [`nroza`](https://bitbucket.org/nroza/)
-* [`jswanbeck`](https://bitbucket.org/jswanbeck)
+* [`rubicks`](https://github.com/rubicks/)
+* [`jswanbeck`](https://github.com/jswanbeck/)
