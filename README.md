@@ -22,5 +22,5 @@
 
 ### Who do I talk to? ###
 
-* owner: [`nroza`](https://bitbucket.org/nroza/)
-* developer: [`jswanbeck`](https://bitbucket.org/jswanbeck)
+* [`nroza`](https://bitbucket.org/nroza/)
+* [`jswanbeck`](https://bitbucket.org/jswanbeck)
